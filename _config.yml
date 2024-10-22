@@ -1,8 +1,8 @@
-title: Hamilton
+title: Renata
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+author: Renata Roque
+avatar: /37672744-207c-4e09-983b-281efd1aff27.jfif
+email: renatynhadourado@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: 37672744-207c-4e09-983b-281efd1aff27.jfif
 social:
   name: Shangzhi Huang
   links:
