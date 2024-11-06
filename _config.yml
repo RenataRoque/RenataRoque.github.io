@@ -1,8 +1,8 @@
 title: Meu Blog Personalizado
 description: Bem-vindo ao meu site!
 author:
-  name: Renata Dourado Roque
-  email: renata@exemplo.com
+- Renata Roque
+- renata.roque@ufv.br
 logo: /hcz-jekyll-blog/static/img/docinho.png
 github: https://github.com/codeasashu
 about: Mestranda em Estatística Aplicada e Biometria
