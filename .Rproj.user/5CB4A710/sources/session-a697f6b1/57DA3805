@@ -3,9 +3,9 @@
     "path": "~/Github/Site/RenataRoque.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2367569706",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1730859988919.0,
     "source_on_save": false,
     "relative_order": 9,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730857001,
+    "lastKnownWriteTime": 1730860364,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730860106091,
+    "last_content_update": 1730860366496,
     "read_only": false,
     "read_only_alternatives": []
 }
