@@ -1,8 +1,8 @@
 title: Meu Blog 
 description: Bem-vindo ao meu site!
 author:
-- Renata Roque
-logo: /hcz-jekyll-blog/static/img/me.png
+Renata Roque
+logo: Site\RenataRoque.github.io/static/img/me.png
 github: https://github.com/codeasashu
 about: Mestranda em Estatística Aplicada e Biometria
 baseurl: https://codeasashu.github.io/hcz-jekyll-blog
